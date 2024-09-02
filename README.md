@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayleebreiner
 - 👀 I’m interested in Cybersecurity Analytics
-- 🌱 I’m currently learning how to use Python and I'm going to Flatiron School for Cybersecurity Analytics.
+- 🌱 I’m currently learning how to use various programming languages in my own time and working on my Masters in Cybersecurity.
 - 📫 I can be reached via email at bayleeokazaki75@gmail.com
 
 <!---
